@@ -1,0 +1,1 @@
+const queryProvider =  ({children}:{children:ReactNode})
